@@ -14,5 +14,7 @@ Install selenium using pip:
 ## Files
 
 `youtube_bot.py` is the class file which contains all the things needed
+
 `rickroller.py` is, as the name stated, a file to navigate to Rick Astley's "Never Gonna Give You Up"
+
 `yt_looper.py` is a file for looping YouTube videos (not recommend for using it as a "view-increaser" as YouTube will eventually block your IP)
