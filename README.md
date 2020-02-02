@@ -4,7 +4,7 @@ A simple YouTube-related bots for various automation tasks created using Seleniu
 ## Installation
 Python 3.6 and above
 
-Right now this only supports Firefox's geckodriver (Can be found (here)[https://github.com/mozilla/geckodriver/releases])
+Right now this only supports Firefox's geckodriver (Can be found [here](https://github.com/mozilla/geckodriver/releases))
 
 In your terminal, create a new virtual environment
 
